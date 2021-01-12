@@ -1,0 +1,16 @@
+shop1
+lion
+8
+9
+shop2
+twix
+5
+9
+shop3
+mars
+4
+11
+shop4
+bount
+8
+12
